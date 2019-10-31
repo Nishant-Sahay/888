@@ -1,0 +1,10 @@
+Please accept my apologies for late submission.It took me some time because I had to design the whole framework 
+from scratch and since I was travelling a day before, I could not complete it on time.
+
+1. In the first question, it was asked to confirm if the test contains "Chemtrails", but it actually contained the text "chemtrails" due to 
+which the string had to be converted to lowercase
+2. In the second question, it was asked to confirm if the image title contained the phrase "Dealey plaza" but it actually contained 
+daily_plaza. So the test case returns false
+3. In the third question, it was asked to check the title of Street View option.
+
+Several improvements can be made in the code if provided sufficient time.
