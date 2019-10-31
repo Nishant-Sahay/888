@@ -1,0 +1,25 @@
+SELENIUM CODE EXERCISE FOR TA ENGINEER
+--------------------------------------
+
+Write the following tests:
+
+1. 
+1.1. Do a search on google for "Chemtrails"
+1.2. Confirm the first text entry contains the word "Chemtrails"
+
+2. 
+2.1. Do a search on google for "Dealey Plaza"
+2.2. Confirm the first image title contains the phrase "Dealey Plaza"
+
+3.
+3.1. Starting at the google homepage, open google maps
+3.2. Open options
+3.3. Assert that Google has provided an option named "Flat Earth View"
+
+
+- Use TestNG to run the tests
+- Use TestNG to do the assertions
+- Use Selenium Webdriver to interact with the page
+- Use a page object pattern to separate out operations related to different pages
+- Do not assert page values in the test methods. Do the assertions on the page level.
+- Use a maven project to hold the code and retrieve all required Java libraries (Selenium, TestNG etc.)
